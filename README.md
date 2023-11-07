@@ -9,7 +9,6 @@
 ## 작업 순서
 1. 리액트 설치
 2. git에 업로드
-3. [lenis 사이트](https://lenis.studiofreight.com/)
 
 ## 설치
 1. react 설치 `npx create-react-app 프로젝트이름`
@@ -32,5 +31,5 @@ git config core.autocrlf true // 해당 프로젝트에만 적용
 ### GSAP
 GSAP(GreenSock Animation Platform)은 웹 애니메이션을 만들기 위한 JavaScript 라이브러리입니다. GSAP은 HTML, CSS 및 SVG 요소를 사용하여 다양한 애니메이션 효과를 생성하고 제어하는 데 사용됩니다.
 
-### lenis
+### [lenis](https://lenis.studiofreight.com/)
 lenis.js는 JavaScript로 작성된 오픈 소스 웹 프레임워크로, 웹 어플리케이션 및 API를 개발하기 위해 사용됩니다. 애니메이션의 부드러움과 자연스러움을 유지하는데 강점을 가지고 있습니다.
