@@ -17,7 +17,7 @@ https://green-react-project.web.app
 4. lenis 설치 `npm i @studio-freight/lenis`
 5. react-router-dom 설치 `npm i react-router-dom`
 
-## firebase 배포 (터미널에서 하는 것을 추천 *경로 확인)
+## firebase 배포 (명령 프롬프트 *경로 확인)
 1. 설치 `npm install -g firebase-tools`
 2. 로그인 `firebase login`
 3. 시작 `firebase init` (선택시 잘 모르겠으면 대문자가 추천)
