@@ -33,8 +33,13 @@ git이 둘 중 어느 쪽을 선택할지 혼란이 온 것이다.<br>
 해결방법<br>
 git config --global core.autocrlf true // 시스템 전체에 적용<br>
 git config core.autocrlf true // 해당 프로젝트에만 적용
+</details>
+<details>
+<summary>git hub push 권한 없음</summary>
+git the requested URL returend error : 403
 
-<summary>ddd</summary>
+ https://beagle-dev.tistory.com/244
+ 
 </details>
 
 ### [GSAP](https://gsap.com/)
