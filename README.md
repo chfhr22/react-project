@@ -35,7 +35,7 @@ git config --global core.autocrlf true // 시스템 전체에 적용<br>
 git config core.autocrlf true // 해당 프로젝트에만 적용
 </details>
 
-### GSAP
+### [GSAP](https://gsap.com/)
 GSAP(GreenSock Animation Platform)은 웹 애니메이션을 만들기 위한 JavaScript 라이브러리입니다. GSAP은 HTML, CSS 및 SVG 요소를 사용하여 다양한 애니메이션 효과를 생성하고 제어하는 데 사용됩니다.
 
 ### [lenis](https://lenis.studiofreight.com/)
